@@ -1,0 +1,2 @@
+How to bundle together common actions
+Using the same git repo on two different devices
