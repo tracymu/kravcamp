@@ -1,0 +1,11 @@
+-Admin User-
+
+As an admin user, I should be able to log in to view camp registrations, download reports, and see payments.
+
+-Camp Participant-
+
+As a camp participant, I need to register myself and others for camp, pay the camp fees, and buy any additional equipment I need.
+
+-Parent-
+
+As a parent, I need to register my child for the camp,buy equipment, and sign a waiver.

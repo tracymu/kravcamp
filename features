@@ -1,0 +1,15 @@
+-form for completion
+-signature panel for parent
+-payment service ? stripe
+-calculate age as at start date of camp based on DOB (if <18, use 'minor' version)
+-ticket price dependant on whether instuctor, student, date, etc.
+-ability to select additional items for purchase
+-create account to login and register for future camps (one time code)
+-save and continue 
+-push to mailchimp list
+-tracking URLs
+
+
+later...
+
+-ability for new user type to list events of their own
